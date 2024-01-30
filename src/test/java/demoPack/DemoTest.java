@@ -8,6 +8,7 @@ public class DemoTest {
 	public void demotest()
 	{
 		System.out.println("--test 1--");
+		System.out.println("--test 3--");
 	}
 	
 
